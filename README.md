@@ -3,9 +3,7 @@
 
 ![格式1](要引用的图片/格式1.png)
 
-<div align="center">
-  <img src="要引用的图片/格式2.png" border="3">
-</div>
+> <img src="要引用的图片/格式2.png" width="600">
 
 | 下载指引 |
 |:---:|
